@@ -4,4 +4,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 louislam/dockge
 filebrowser/filebrowser
-
+jonnyan404/docker-ui
